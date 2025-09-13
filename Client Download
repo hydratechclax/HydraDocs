@@ -1,0 +1,15 @@
+# ExampleProduct – Client Download Links
+
+Welcome to the client download page for **ExampleProduct**. Here you can find the latest download links for all supported platforms.
+
+## Downloads
+
+- **Windows**: [Download v1.2.3](https://example.com/ExampleProduct/windows)
+- **macOS**: [Download v1.2.3](https://example.com/ExampleProduct/macos)
+- **Linux**: [Download v1.2.3](https://example.com/ExampleProduct/linux)
+
+> _Tip: Always verify the checksums after downloading._
+
+---
+
+[Next: Best Profiles →](./BestProfiles.md)
